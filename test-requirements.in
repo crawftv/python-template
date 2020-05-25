@@ -1,0 +1,8 @@
+pytest
+coverage
+pytest-cov
+pytest-black
+faker
+pytest-pylint
+pytest-bandit
+
